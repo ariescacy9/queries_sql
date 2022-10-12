@@ -1,8 +1,8 @@
 # BASE DE DATOS
 ## QUERY 
 
-
 Diagrama de entidad relacion 
+
 ![App Screenshot](https://github.com/ariescacy9/queries_sql/blob/master/img/diagrama.JPG?raw=true)
 
 ### Se muestran las multiples consultas
